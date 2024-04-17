@@ -12,6 +12,7 @@
   ],
   "license": "MIT",
   "scripts": {
+    "install": "gatsby install --force",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
