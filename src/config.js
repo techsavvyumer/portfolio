@@ -1,8 +1,8 @@
 module.exports = {
-  title: 'Muhammad Umer Mansoor | Data Scientist Intern',
-  siteTitle: 'Muhammad Umer Mansoor | Data Scientist Intern',
+  title: 'Muhammad Umer Mansoor | Data Science Intern',
+  siteTitle: 'Muhammad Umer Mansoor | Data Science Intern',
   siteDescription:
-    'Muhammad Umer Mansoor is an incoming Software Developer, based in Pakistan, who loves learning new things and helping tech beginners.',
+    'Muhammad Umer Mansoor is a Data Scientist, based in Pakistan, who loves learning new things and helping others.',
   siteKeywords:
     'Muhammad Umer Mansoor, Umer Mansoor, Mansoor, techsavvyumer, mumer012001, mumer012001@gmail.com, techsavvyumer@gmail.com, software engineer, web developer, data science, data scientist, machine learning engineer, web scraper, web scraping, deep learning engineer, selenium, python, ',
   siteUrl: 'https://techsavvyumer.github.io/',
