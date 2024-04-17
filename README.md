@@ -6,5 +6,5 @@
 </h1>
 
 <div align="center">
-  <img alt="Demo" src="https://github.com/chandrikadeb7/chandrikadeb7.github.io/blob/code/src/images/demo.png" />
+  <img alt="Demo" src="https://github.com/techsavvyumer/portfolio/blob/main/src/images/demo.png" />
 </div>
