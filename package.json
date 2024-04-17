@@ -12,13 +12,13 @@
   ],
   "license": "MIT",
   "scripts": {
-    "install": "npm install --force",
-    "build": "gatsby build",
+    "build": "npm run clean && gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "rimraf .cache public",
+    
   },
   "husky": {
     "hooks": {
