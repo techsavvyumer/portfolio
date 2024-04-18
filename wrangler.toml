@@ -1,2 +1,9 @@
-[build]
-command = "npm install --force"
+name = "portfolio"
+type = "webpack"
+workers_dev = false
+route = ""
+zone_id = ""
+
+[site]
+bucket = "./public"
+entry-point = "workers-site"
