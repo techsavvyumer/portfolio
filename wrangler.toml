@@ -3,7 +3,8 @@ type = "webpack"
 workers_dev = false
 route = ""
 zone_id = ""
+pages_build_output_dir = "public"
 
 [site]
-bucket = "./public"
+bucket = "public"
 entry-point = "workers-site"
