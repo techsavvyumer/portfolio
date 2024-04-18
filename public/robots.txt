@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://techsavvyumer.github.io/sitemap-index.xml
+Host: https://techsavvyumer.github.io
